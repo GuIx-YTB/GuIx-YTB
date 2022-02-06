@@ -1,0 +1,61 @@
+
+
+
+body {
+    margin: 0 auto;
+}
+
+/* tete de page */
+
+header.header {
+    display: flex;
+    align-items: center;
+    background-color: rgba(204, 0, 255, 0.596);
+}
+
+header.header img {
+    width: 150px;
+}
+
+section.top-page{
+    background: url("../image/fond-ecran-space-107.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.landing-page {
+    padding: 20px 50px;
+}
+
+/* menu de navigation */
+
+nav.nav {
+    color: white;
+}
+
+
+h1.h1 {
+    color: white;
+    margin-left: 30px;
+}
+
+a.a {
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    margin-left: 230px;
+}
+
+a.b {
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    margin-left: 370px;
+}
+
+a.c {
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    margin-left: 300px;
+}
